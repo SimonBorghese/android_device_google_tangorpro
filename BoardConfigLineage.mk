@@ -8,6 +8,7 @@ BUILD_BROKEN_DUP_RULES := true
 
 # Special TWRP addition
 RECOVERY_VARIANT := twrp
+TW_THEME := landscape_hdpi
 
 # Kernel
 TARGET_KERNEL_CONFIG := tangorpro_gki_defconfig
