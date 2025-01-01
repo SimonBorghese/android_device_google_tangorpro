@@ -6,6 +6,9 @@
 
 BUILD_BROKEN_DUP_RULES := true
 
+# Special TWRP addition
+RECOVERY_VARIANT := twrp
+
 # Kernel
 TARGET_KERNEL_CONFIG := tangorpro_gki_defconfig
 TARGET_KERNEL_DTBO_PREFIX := dts/
